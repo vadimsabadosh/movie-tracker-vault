@@ -29,6 +29,7 @@ updated: 2026-10-16
 - [[ADR-004 Zod as Single Source of Truth]]
 - [[ADR-005 Separate Vault Repository with MCP Access]]
 - [[ADR-006 Read-Only GitHub MCP as Data Source]]
+- [[ADR-007 Typed Relations in Frontmatter]]
 
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
