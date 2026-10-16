@@ -9,8 +9,8 @@ requirements: [FR-1, FR-2, FR-3, FR-4, FR-5, FR-6, FR-7, FR-8, NFR-6]
 created: 2026-10-16
 updated: 2026-10-16
 depends_on: ["[[Services Layer]]", "[[Validation Schemas]]", "[[Error Handling]]"]
-governed_by: ["[[ADR-001 Layered Architecture]]", "[[ADR-004 Zod as Single Source of Truth]]"]
-sources: ["PR4: ontology relations"]
+governed_by: ["[[ADR-001 Layered Architecture]]", "[[ADR-004 Zod as Single Source of Truth]]", "[[ADR-010 Watch History Query Contract]]"]
+sources: ["PR4: ontology relations", github:movie-tracker@2fce061]
 ---
 
 # Routes Layer
