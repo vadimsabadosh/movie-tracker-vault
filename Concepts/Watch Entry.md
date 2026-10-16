@@ -6,7 +6,8 @@ requirements: [FR-2, FR-3]
 created: 2026-10-16
 updated: 2026-10-16
 part_of: ["[[Watch History]]"]
-sources: ["PR4: ontology relations"]
+sources: ["PR4: ontology relations", github:movie-tracker@6344406]
+governed_by: ["[[ADR-009 One Watch Entry Per Movie Kept on Delete]]"]
 ---
 
 # Watch Entry
