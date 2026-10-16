@@ -9,8 +9,8 @@ requirements: [NFR-1, NFR-3, NFR-7]
 created: 2026-10-16
 updated: 2026-10-16
 implements: ["[[ADR-002 SQLite with better-sqlite3]]"]
-sources: ["PR4: ontology relations", github:movie-tracker@c239213]
-governed_by: ["[[ADR-008 Unicode Case-Insensitive Keys in App Layer]]"]
+sources: ["PR4: ontology relations", github:movie-tracker@c239213, github:movie-tracker@6344406]
+governed_by: ["[[ADR-008 Unicode Case-Insensitive Keys in App Layer]]", "[[ADR-009 One Watch Entry Per Movie Kept on Delete]]"]
 ---
 
 # Database
