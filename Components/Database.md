@@ -8,6 +8,8 @@ status: planned
 requirements: [NFR-1, NFR-3, NFR-7]
 created: 2026-10-16
 updated: 2026-10-16
+implements: ["[[ADR-002 SQLite with better-sqlite3]]"]
+sources: ["PR4: ontology relations"]
 ---
 
 # Database
