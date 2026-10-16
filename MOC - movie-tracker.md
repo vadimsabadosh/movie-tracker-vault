@@ -20,6 +20,7 @@ updated: 2026-10-16
 - Шари: [[Routes Layer]] → [[Services Layer]] → [[Repositories Layer]]
 - Рекомендації: [[Recommender]]
 - Інфраструктура: [[Database]], [[Validation Schemas]], [[Error Handling]]
+- [[Vault MCP Server]]
 
 ## Decisions — ADR
 - [[ADR-001 Layered Architecture]]
@@ -27,10 +28,12 @@ updated: 2026-10-16
 - [[ADR-003 Deterministic Recommender Behind Interface]]
 - [[ADR-004 Zod as Single Source of Truth]]
 - [[ADR-005 Separate Vault Repository with MCP Access]]
+- [[ADR-006 Read-Only GitHub MCP as Data Source]]
 
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
 - Harness: [[Agent Harness]], [[Guardrail]], [[MCP]], [[Skill]], [[ADR]], [[MOC]]
+- [[Requirement ID]]
 
 ## Відповідність вимогам
 | Вимога | Нотатки |
