@@ -5,9 +5,10 @@ tags: [component, harness, mcp]
 status: implemented
 layer: harness
 source_path: harness/vault-mcp/
-sources: [github:movie-tracker@43a0aa6]
+sources: [github:movie-tracker@43a0aa6, "PR4: ontology relations"]
 created: 2026-10-16
 updated: 2026-10-16
+implements: ["[[ADR-005 Separate Vault Repository with MCP Access]]", "[[ADR-007 Typed Relations in Frontmatter]]"]
 ---
 
 # Vault MCP Server
