@@ -20,6 +20,7 @@ updated: 2026-10-16
 - Шари: [[Routes Layer]] → [[Services Layer]] → [[Repositories Layer]]
 - Рекомендації: [[Recommender]]
 - Інфраструктура: [[Database]], [[Validation Schemas]], [[Error Handling]]
+- [[Vault MCP Server]]
 
 ## Decisions — ADR
 - [[ADR-001 Layered Architecture]]
