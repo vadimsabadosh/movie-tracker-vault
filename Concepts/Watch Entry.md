@@ -5,6 +5,8 @@ tags: [concept, domain, history]
 requirements: [FR-2, FR-3]
 created: 2026-10-16
 updated: 2026-10-16
+part_of: ["[[Watch History]]"]
+sources: ["PR4: ontology relations"]
 ---
 
 # Watch Entry
