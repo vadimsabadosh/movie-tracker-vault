@@ -8,6 +8,8 @@ status: planned
 requirements: [FR-7, NFR-5]
 created: 2026-10-16
 updated: 2026-10-16
+implements: ["[[Recommendation]]", "[[ADR-003 Deterministic Recommender Behind Interface]]"]
+sources: ["PR4: ontology relations"]
 ---
 
 # Recommender
