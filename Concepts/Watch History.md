@@ -5,6 +5,8 @@ tags: [concept, domain, history]
 requirements: [FR-4]
 created: 2026-10-16
 updated: 2026-10-16
+governed_by: ["[[ADR-010 Watch History Query Contract]]"]
+sources: [github:movie-tracker@2fce061]
 ---
 
 # Watch History
