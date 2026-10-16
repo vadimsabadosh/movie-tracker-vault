@@ -10,8 +10,8 @@ created: 2026-10-16
 updated: 2026-10-16
 depends_on: ["[[Repositories Layer]]", "[[Recommender]]"]
 implements: ["[[Watch History]]", "[[Preference Profile]]", "[[Viewing Statistics]]"]
-governed_by: ["[[ADR-001 Layered Architecture]]"]
-sources: ["PR4: ontology relations"]
+governed_by: ["[[ADR-001 Layered Architecture]]", "[[ADR-009 One Watch Entry Per Movie Kept on Delete]]"]
+sources: ["PR4: ontology relations", github:movie-tracker@6344406]
 ---
 
 # Services Layer
