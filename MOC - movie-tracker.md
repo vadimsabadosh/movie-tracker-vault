@@ -33,6 +33,7 @@ updated: 2026-10-16
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
 - Harness: [[Agent Harness]], [[Guardrail]], [[MCP]], [[Skill]], [[ADR]], [[MOC]]
+- [[Requirement ID]]
 
 ## Відповідність вимогам
 | Вимога | Нотатки |
