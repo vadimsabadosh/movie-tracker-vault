@@ -32,6 +32,7 @@ updated: 2026-10-16
 - [[ADR-007 Typed Relations in Frontmatter]]
 - [[ADR-008 Unicode Case-Insensitive Keys in App Layer]]
 - [[ADR-009 One Watch Entry Per Movie Kept on Delete]]
+- [[ADR-010 Watch History Query Contract]]
 
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
