@@ -37,6 +37,7 @@ updated: 2026-10-16
 - [[ADR-012 Semantic Search with Embedded LanceDB Index]]
 - [[ADR-013 Preference Profile Contract]]
 - [[ADR-014 Recommendation Score Formula]]
+- [[ADR-015 Viewing Statistics Contract]]
 
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
