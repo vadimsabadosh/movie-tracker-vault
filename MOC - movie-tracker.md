@@ -35,6 +35,7 @@ updated: 2026-10-16
 - [[ADR-010 Watch History Query Contract]]
 - [[ADR-011 Sort Selection by Bound Parameters]]
 - [[ADR-012 Semantic Search with Embedded LanceDB Index]]
+- [[ADR-013 Preference Profile Contract]]
 
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
