@@ -4,7 +4,9 @@ aliases: [Статистика переглядів]
 tags: [concept, domain, statistics]
 requirements: [FR-8]
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
+governed_by: ["[[ADR-015 Viewing Statistics Contract]]"]
+sources: ["PR7: FR-8 orchestration (docs/orchestration/viewing-statistics/)"]
 ---
 
 # Viewing Statistics

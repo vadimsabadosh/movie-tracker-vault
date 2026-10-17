@@ -4,7 +4,9 @@ aliases: [Профіль вподобань]
 tags: [concept, domain, recommendation]
 requirements: [FR-6]
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
+governed_by: ["[[ADR-013 Preference Profile Contract]]"]
+sources: ["PR7: FR-6 orchestration (docs/orchestration/preference-profile/)"]
 ---
 
 # Preference Profile
