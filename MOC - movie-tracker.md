@@ -34,6 +34,7 @@ updated: 2026-10-16
 - [[ADR-009 One Watch Entry Per Movie Kept on Delete]]
 - [[ADR-010 Watch History Query Contract]]
 - [[ADR-011 Sort Selection by Bound Parameters]]
+- [[ADR-012 Semantic Search with Embedded LanceDB Index]]
 
 ## Glossary
 - Домен: [[Recommendation Score]], [[Pagination]]
